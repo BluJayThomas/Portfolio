@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+	<title> Coding with Kiera </title>
+	<style type="text/css">
+	h1 {
+		background-color: blue; 
+		text-align: center; 
+		font-family: Arial; 
+		font-size: 54px; 
+		color: teal; 
+	}	
+	.Test {
+		display: inline-block;
+		text-align: center; 
+		position: relative;
+		font-family: arial; 
+	}
+	.footer {
+		background-color: red; 
+	}
+
+
+	</style> 
+</head> 
+<body> 
+		<h1> This is Kieras website </h1>
+			<p> Kiera is my girlfriend and she is watching me do coding </p>
+		<h2> Kiera is a very nice girlfriend </h2>
+			<p style="color: blue;"> she has nice boobs and a friendly face </p>
+		<a src="http://www.google.com"> This is a link to google</a>
+	<img href="https://hb.imgix.net/48b86e26ae9114139a4cf3fa9ee69f093b23a97e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=3d3f20d1a5a56ab698e1ad51ae577a9a" height="320" width="240" alt="Picture of gang beasts">
+	<div class="Test">
+		<p> This should show up yellow </p>
+		<ul> 
+			<li> List item 1 </li>
+			<li> list item 2 </li>
+			<li> List item 3 </li>
+		</ul>
+	</div>
+	<div class="Test2">
+		<ol> 
+			<li> List item 1 </li>
+			<li> list item 2 </li>
+			<li> List item 3</li>
+		</ol>
+	<footer>
+		<div id="footer">
+			<p> Copyright Kiera McElroy 2019 </p> 
+	</footer>
+</body> 
+</html>
