@@ -1,0 +1,66 @@
+body {
+	background-image: url("https://i.ytimg.com/vi/4l6J5jhRgos/maxresdefault.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	margin: 30px; 
+	background-color: blue; 
+}
+#Title {
+	color:azure;
+	height: 50px;
+	text-align: center;
+	width: 100%;
+	float: center;
+	position: relative;
+	align-content: center; 
+
+}
+#Title h1 {
+	background-color: white;  
+	border: solid 5px red
+}
+nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline-block;
+  text-align: center;
+  border: solid 5px red;
+  background-color: white;  
+}
+
+nav ul {
+  width: 100%;
+  text-align: center;
+}
+#contents {
+	height: 250px;
+	width: 100%;
+	float: left;
+	position: absolute;
+	color: teal;
+	background-color: white; 
+	border: solid 5px red;
+	text-align: center;  
+
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+  text-decoration: none; 
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
